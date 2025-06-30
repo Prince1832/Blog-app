@@ -1,0 +1,20 @@
+@import 'tailwindcss';
+
+
+
+.ql-editor {
+  min-height: 200px;
+  padding: 12px;
+  font-size: 15px;
+  font-family: 'Inter', sans-serif;
+  background-color: white;
+  border-radius: 0.5rem;
+}
+
+.ql-toolbar {
+  border-radius: 0.5rem 0.5rem 0 0;
+}
+
+.ql-container {
+  border-radius: 0 0 0.5rem 0.5rem;
+}
